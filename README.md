@@ -12,10 +12,6 @@ The goal was to derive actionable insights from bike resale data to support stra
 - Mileage efficiency across engine capacity bands.
 - Registration year trends reflecting resale activity over time.
 
-## Report Preview:
-![Home Summary](screenshots/home_summary.png)
-![Sales Insights](screenshots/sales_insights.png)
-
 ## Tools Used:
 - Power BI
 - SQL (for data extraction and transformation)
