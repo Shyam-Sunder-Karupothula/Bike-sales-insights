@@ -1,8 +1,7 @@
-# Bike-sales-insights
+# Bike Sales Insights Report - SQL,Power BI
 
-# Bike Sales Insights Report - Power BI
-
-This Power BI report analyzes bike resale trends across India using a dataset containing features like brand, model, price, mileage, insurance status, registration year, and more.
+This was an end-to-end analytics project SQL-based extraction, KPI's and interactive Power BI dashboard creation.
+The goal was to derive actionable insights from bike resale data to support strategic decisions in pricing, inventory, and regional focus.
 
  ## Key Insights Uncovered:
 - Top performing bike brands driving resale value.
@@ -21,5 +20,3 @@ This Power BI report analyzes bike resale trends across India using a dataset co
 - Power BI
 - SQL (for data extraction and transformation)
 - Excel (data source)
-
-
